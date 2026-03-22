@@ -5,7 +5,7 @@ Material:
 - Salt
 - Vatten
 
-Förberedelse:
+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Förberedelse:
 1. Koka upp vatten
 2. Tillsätt pastan
 3. Koka 10 min.
