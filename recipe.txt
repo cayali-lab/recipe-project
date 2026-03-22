@@ -1,0 +1,11 @@
+Mat Recept
+
+Material:
+- 100g pasta
+- Salt
+- Vatten
+
+Förberedelse:
+1. Koka upp vatten
+2. Tillsätt pastan
+3. Koka 10 min.
