@@ -1,0 +1,4 @@
+Jag använde git merge --no-ff för att bevara branch-historiken.
+
+git revert används för att ångra en commit utan att ta bort historik.
+git reset används för att ta bort commits helt.
