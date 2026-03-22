@@ -1,0 +1,14 @@
+v2.2.0.0 - 2026-03-22
+Tillagd:
+- Sos tillsatt
+
+v1.1.0
+Tillagd:
+- Tips har lagts till
+- Servering tillagd
+
+v1.0.0
+Tillagd:
+- Första pasta recept
+Atgardet:
+- Koktid har rattats till
